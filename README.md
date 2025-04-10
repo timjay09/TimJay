@@ -7,7 +7,7 @@ Hiya! I'm TimJay!
 
 I just started coding :p
 - **Knows:** *nothing...* (yet) :(
-- **Learning:** HTML | Progress: 9% [##------------------]
+- **Learning:** HTML | Progress: 9% [##------------------] (On w3schools)
 - **Want's to learn:** CSS and Javascript
 
 ## My Projects
