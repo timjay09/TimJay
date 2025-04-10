@@ -1,4 +1,4 @@
-Hiya! I'm Thijmen!
+Hiya! I'm TimJay!
 ## About Me
 
 - **Age:** 15
