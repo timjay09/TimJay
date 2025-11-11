@@ -1,7 +1,7 @@
 Hiya! I'm TimJay!
 ## About Me
 
-- **Age:** 15
+- **Age:** 16
 - **Hobby's:** Literally anything with tech, gaming, "I like trains", music (mostly alt, indie and rock) and being outside. *yes... I touch grass...*
 - **Fun fact? ig?:** I have autism :p
 
